@@ -17,7 +17,7 @@
         browseLabel: 'Examinar &hellip;',
         removeLabel: 'Treure',
         removeTitle: 'Treure arxius seleccionats',
-        cancelLabel: 'Cancel',
+        cancelLabel: 'Cancelar',
         cancelTitle: 'Avortar la pujada en curs',
         uploadLabel: 'Pujar arxiu',
         uploadTitle: 'Pujar arxius seleccionats',
@@ -27,7 +27,7 @@
         msgFilesTooLess: 'Heu de seleccionar almenys <b>{n}</b> {files} a carregar.',
         msgFilesTooMany: 'El nombre d\'arxius seleccionats a carregar <b>({n})</b> excedeix el límit màxim permès de <b>{m}</b>.',
         msgFileNotFound: 'Arxiu "{name}" no trobat.',
-        msgFileSecured: 'No es pot accedir a l\'arxiu "{name}" perquè estarà sent usat per una altra aplicació o no tinguem permisos de lectura.',
+        msgFileSecured: 'No es pot accedir a l\'arxiu "{name}" perquè està sent usat per una altre aplicació o no tenim permisos de lectura.',
         msgFileNotReadable: 'No es pot accedir a l\'arxiu "{name}".',
         msgFilePreviewAborted: 'Previsualització de l\'arxiu "{name}" cancel·lada.',
         msgFilePreviewError: 'S\'ha produït un error mentre es llegia el fitxer "{name}".',
@@ -50,7 +50,7 @@
             removeTitle: 'Eliminar arxiu',
             uploadTitle: 'Pujar arxiu',
             indicatorNewTitle: 'No pujat encara',
-            indicatorSuccessTitle: 'Subido',
+            indicatorSuccessTitle: 'Pujat',
             indicatorErrorTitle: 'Pujar Error',
             indicatorLoadingTitle: 'Pujant ...'
         }
